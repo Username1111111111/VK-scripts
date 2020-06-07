@@ -1,6 +1,6 @@
 You need to:
 1) Navigate to specific section
-2) Insert respective script inside browser console (e.g. click F10 in chrome and ctrl+c script -> ctrl+v in console)
+2) Insert respective script inside browser console (e.g. click F12 in chrome and ctrl+c script -> ctrl+v in console)
 3) Wait untill all work done (script work takes some time)
 
 Scripts are not ideal but doing it's work (some videos or photos can be skipped).
