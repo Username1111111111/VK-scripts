@@ -1,8 +1,8 @@
 # VK scripts <img src="https://img.shields.io/badge/Status-Complete-green" style="vertical-align: middle;">
 
 > Scripts for cleaning VK profile (and, eventualy, canceling).
-> ❌❌❌
-<img style="height: 80px;" src="./_resourses/vk-scripts.png">
+> <p>❌❌❌</p>
+<img width="80px" src="./_resourses/vk-scripts.png">
 
 ## Table of Contents
 * [General Info](#general-information)
